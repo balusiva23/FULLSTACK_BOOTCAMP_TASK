@@ -1,0 +1,6 @@
+https://github.com/balusiva23/amazon-clone-frontend
+
+https://github.com/balusiva23/amazon-clone-backend
+
+Site:
+https://inquisitive-vacherin-d16b91.netlify.app/
